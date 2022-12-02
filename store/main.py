@@ -1,0 +1,1 @@
+categoriya = ('1.Texnika \n 2.')
